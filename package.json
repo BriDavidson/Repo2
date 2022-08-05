@@ -1,0 +1,16 @@
+{
+  "name": "tsrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.24.1",
+    "playwright": "^1.24.1"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.4.3"
+  }
+}
